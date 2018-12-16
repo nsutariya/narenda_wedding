@@ -1,0 +1,1020 @@
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
+    /* banner */
+    .banner .banner-content, .banner-1 .banner-content, .banner-2 .banner-content, .banner-3 .banner-content {
+        padding: 220px 0; 
+    }
+    .banner .banner-content h1, .banner-1 .banner-content h1, .banner-2 .banner-content h1, .banner-3 .banner-content h1 {
+        font-size: 90px;
+        margin-top: -18px;
+        margin-bottom: 47px;
+    }
+    /* happy couple */
+    .happy-couple .single-happy-couple .couple-circle {
+        padding: 0 30px 0 100px;
+    }
+
+    /* joining party */
+    .joining-party {
+        padding: 115px 0 130px;
+    }
+    .love-story .single-story {
+        margin-bottom: 70px;
+    }
+    .joining-party .part-form {
+        right: 0;
+        transform: rotate(0deg);
+    }
+    .joining-party .part-img {
+        left: 0;
+        transform: rotate(0deg);
+        height: 351px;
+        overflow: hidden;
+    }
+    .joining-party .part-img img {
+        height: 100%;
+        width: auto;
+        max-width: fit-content;
+    }
+    /* love story */
+    .love-story {
+        padding: 115px 0 130px;
+    }
+    .love-story .section-title {
+        margin-bottom: 57px;
+    }
+    .love-story .single-story .part-img, .love-story .single-story.single-story-2-4 .part-img {
+        right: 0;
+        transform: rotate(0deg);
+        height: 351px;
+    }
+    .love-story .single-story .part-img img, .love-story .single-story.single-story-2-4 .part-img img {
+        height: 100%;
+        width: auto;
+        max-width: fit-content;
+    }
+    .love-story .single-story .part-text, .love-story .single-story.single-story-2-4 .part-text {
+        left: 0;
+        transform: rotate(0deg);
+    }
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+        /* header */
+    .header .main-menu {
+        float: none;
+    }
+    .header .main-menu .navbar .nav-item .nav-link {
+        padding: 15px;
+        margin: 0;
+        background: rgba(223, 2, 37, 0.07);
+        margin-bottom: 1px;
+    }
+    .header .main-menu .navbar .nav-item:last-child .nav-link {
+        margin-bottom: 15px;
+    }
+    .header .main-menu .navbar .nav-item .nav-link:after {
+        display: none;
+    }
+    .header .navbar-toggler {
+        border: 1px solid #df0225;
+        float: right;
+        margin: 15px 0 14px;
+        color: #df0225;
+        height: 40px;
+        width: 40px;
+        padding: 0;
+    }
+    .header .navbar-toggler:focus {
+        outline: none;
+    }
+    /* section title */
+    .section-title h2 {
+        font-size: 40px;
+    }
+    .section-title h2.remove-space {
+        margin-bottom: 15px;
+    }
+    /* banner */
+    .banner .banner-content, .banner-1 .banner-content, .banner-2 .banner-content, .banner-3 .banner-content {
+        padding: 220px 0;
+    }
+    .banner .banner-content h1, .banner-1 .banner-content h1, .banner-2 .banner-content h1, .banner-3 .banner-content h1 {
+        font-size: 50px;
+        margin-bottom: 28px;
+        margin-top: -10px;
+    }
+    .banner .banner-content .married-time h4, .banner-1 .banner-content .married-time h4, .banner-2 .banner-content .married-time h4, .banner-3 .banner-content .married-time h4 {
+        font-size: 24px;
+    }
+    .banner .banner-content .married-time p, .banner-1 .banner-content .married-time p, .banner-2 .banner-content .married-time p, .banner-3 .banner-content .married-time p {
+        font-size: 12px;
+    }
+    .banner .banner-content .married-time .party-owner, .banner-1 .banner-content .married-time .party-owner, .banner-2 .banner-content .married-time .party-owner, .banner-3 .banner-content .married-time .party-owner {
+        font-size: 14px;
+    }
+    /* countdown */
+    .countdown {
+        padding: 121px 0 124px;
+    }
+    .countdown .part-text h2 {
+        font-size: 40px;
+        margin-bottom: 24px;
+    }
+    .countdown .part-text p {
+        margin-bottom: 20px;
+    }
+    .countdown .part-countdown .timer .single-count {
+        margin-right: 18px;
+    }
+    .countdown .part-countdown .timer .single-count .day, .countdown .part-countdown .timer .single-count .hour, .countdown .part-countdown .timer .single-count .minute, .countdown .part-countdown .timer .single-count .second {
+        font-size: 30px;
+        margin-bottom: -12px;
+    }
+    .countdown .part-countdown .timer .single-count .title {
+        font-size: 14px;
+    }
+
+    /* happy couple */
+    .happy-couple {
+        padding: 122px 0 60px;
+    }
+    .happy-couple .section-title {
+        margin-bottom: 93px;
+    }
+    .happy-couple .single-happy-couple .couple-circle {
+        border-radius: 0;
+        width: 100%;
+        height: auto;
+        padding: 70px 30px 30px;
+        text-align: center;
+        margin-bottom: 70px;
+    }
+    .happy-couple .single-happy-couple .part-img {
+        position: absolute;
+        margin-top: 0;
+        height: auto;
+        top: -40px;
+        width: 90px;
+        left: 50%;
+        margin-left: -45px;
+    }
+    .happy-couple .single-happy-couple .couple-circle h3 {
+        font-size: 30px;
+    }
+    .happy-couple .col-xl-5:last-child .single-happy-couple .couple-circle {
+        margin-bottom: 0;
+    }
+    /* wedding event */
+    .wedding-event {
+        padding: 126px 0 100px; 
+    }
+    .wedding-event .single-event {
+        border: none;
+        padding: 22px 30px 7px;
+        box-shadow: 0 0 22px -9px;
+        text-align: left;
+        margin-bottom: 30px;
+    }
+    .wedding-event .single-event h3 {
+        font-size: 30px;
+        margin-bottom: 13px;
+    }
+    .wedding-event .single-event span.time {
+        font-size: 20px;
+        margin-bottom: 26px;
+    }
+    .wedding-event .single-event span.time:after {
+        bottom: -12px;
+    }
+    /* joining party */
+    .joining-party {
+        padding: 122px 0 130px;
+    }
+    .joining-party .section-title {
+        margin-bottom: 53px;
+    }
+    .joining-party .part-img {
+        left: 0;
+        transform: rotate(0deg);
+        margin-bottom: 30px;
+    }
+    .joining-party .part-form {
+        right: 0;
+        transform: rotate(0deg);
+        padding: 23px 30px 30px;
+    }
+    /* love story */
+    .love-story {
+        padding: 122px 0 100px;
+    }
+    .love-story .section-title {
+        margin-bottom: 53px;
+    }
+    .love-story .single-story .part-text, .love-story .single-story.single-story-2-4 .part-text {
+        left: 0;
+        transform: rotate(0deg);
+        padding: 26px 30px 23px;
+        text-align: left;
+    }
+    .love-story .single-story .part-text h3 {
+        font-size: 30px;
+        margin-bottom: 8px;
+    }
+    .love-story .single-story .part-text span.date {
+        font-size: 20px;
+        margin-bottom: 25px;
+    }
+    .love-story .single-story .part-text p {
+        margin: 0;
+    }
+    .love-story .single-story .part-img, .love-story .single-story.single-story-2-4 .part-img {
+        right: 0;
+        transform: rotate(0deg);
+        height: auto;
+    }
+    .love-story .single-story:nth-child(2) .part-img, .love-story .single-story:nth-child(4) .part-img {
+        right: 0;
+        transform: rotate(0deg);
+    }
+    .love-story .single-story:nth-child(2) .part-text, .love-story .single-story:nth-child(4) .part-text {
+        left: 0;
+        transform: rotate(0deg);
+    }
+    .love-story .single-story {
+        margin-bottom: 30px;
+    }
+    /* gallery */
+    .gallery {
+        padding: 122px 0 130px;
+    }
+    /* testimonial */
+    .testimonial {
+        padding: 122px 0 170px;
+    }
+    .testimonial .testimonial-slider .owl-stage-outer .single-testimonial h3 {
+        margin-bottom: 33px;
+    }
+    .testimonial .testimonial-slider .owl-stage-outer .single-testimonial p {
+        margin-bottom: 17px;
+    }
+    .testimonial .testimonial-slider .owl-stage-outer .single-testimonial {
+        padding: 25px 30px 30px;
+    }
+    .testimonial .testimonial-slider .owl-stage-outer .single-testimonial .part-icon {
+        position: absolute;
+        margin-bottom: 0;
+        bottom: -40px;
+    }
+    /* groomsmen */
+    .groomsmen, .bridesmaid {
+        padding: 122px 0 100px
+    }
+    .groomsmen .single-person, .bridesmaid .single-person {
+        margin-bottom: 30px;
+    }
+    /* blog */
+    .blog {
+        padding: 122px 0 140px;
+    }
+    .blog .single-blog .part-text h3 {
+        font-size: 30px;
+    }
+    /* footer */
+    .footer {
+        padding: 90px 0px 47px; 
+    }
+    .footer .back-to-top {
+        margin-left: -40px;
+        top: -40px;
+    }
+    .footer .back-to-top button {
+        width: 80px;
+        height: 80px;
+        font-size: 25px;
+    }
+}
+
+@media only screen and (min-width: 576px) and (max-width: 767px) {
+        /* header */
+    .header .main-menu {
+        float: none;
+    }
+    .header .main-menu .navbar .nav-item .nav-link {
+        padding: 15px;
+        margin: 0;
+        background: rgba(223, 2, 37, 0.07);
+        margin-bottom: 1px;
+    }
+    .header .main-menu .navbar .nav-item:last-child .nav-link {
+        margin-bottom: 15px;
+    }
+    .header .main-menu .navbar .nav-item .nav-link:after {
+        display: none;
+    }
+    .header .navbar-toggler {
+        border: 1px solid #df0225;
+        float: right;
+        margin: 15px 0 14px;
+        color: #df0225;
+        height: 40px;
+        width: 40px;
+        padding: 0;
+    }
+    .header .navbar-toggler:focus {
+        outline: none;
+    }
+    /* section title */
+    .section-title h2 {
+        font-size: 40px;
+    }
+    .section-title h2.remove-space {
+        margin-bottom: 15px;
+    }
+    /* banner */
+    .banner .banner-content, .banner-1 .banner-content, .banner-2 .banner-content, .banner-3 .banner-content {
+        padding: 220px 0;
+    }
+    .banner .banner-content h1, .banner-1 .banner-content h1, .banner-2 .banner-content h1, .banner-3 .banner-content h1 {
+        font-size: 50px;
+        margin-bottom: 28px;
+        margin-top: -10px;
+    }
+    .banner .banner-content .married-time h4, .banner-1 .banner-content .married-time h4, .banner-2 .banner-content .married-time h4, .banner-3 .banner-content .married-time h4 {
+        font-size: 24px;
+    }
+    .banner .banner-content .married-time p, .banner-1 .banner-content .married-time p, .banner-2 .banner-content .married-time p, .banner-3 .banner-content .married-time p {
+        font-size: 12px;
+    }
+    .banner .banner-content .married-time .party-owner, .banner-1 .banner-content .married-time .party-owner, .banner-2 .banner-content .married-time .party-owner, .banner-3 .banner-content .married-time .party-owner {
+        font-size: 14px;
+    }
+    /* countdown */
+    .countdown {
+        padding: 121px 0 124px;
+    }
+    .countdown .part-text h2 {
+        font-size: 40px;
+        margin-bottom: 24px;
+    }
+    .countdown .part-text p {
+        margin-bottom: 20px;
+    }
+    .countdown .part-countdown .timer .single-count {
+        margin-right: 18px;
+    }
+    .countdown .part-countdown .timer .single-count .day, .countdown .part-countdown .timer .single-count .hour, .countdown .part-countdown .timer .single-count .minute, .countdown .part-countdown .timer .single-count .second {
+        font-size: 30px;
+        margin-bottom: -12px;
+    }
+    .countdown .part-countdown .timer .single-count .title {
+        font-size: 14px;
+    }
+
+    /* happy couple */
+    .happy-couple {
+        padding: 122px 0 130px;
+    }
+    .happy-couple .section-title {
+        margin-bottom: 93px;
+    }
+    .happy-couple .single-happy-couple .couple-circle {
+        border-radius: 0;
+        width: 100%;
+        height: auto;
+        padding: 70px 30px 30px;
+        text-align: center;
+        margin-bottom: 70px;
+    }
+    .happy-couple .single-happy-couple .part-img {
+        position: absolute;
+        margin-top: 0;
+        height: auto;
+        top: -40px;
+        width: 90px;
+        left: 50%;
+        margin-left: -45px;
+    }
+    .happy-couple .single-happy-couple .couple-circle h3 {
+        font-size: 30px;
+    }
+    .happy-couple .col-xl-5:last-child .single-happy-couple .couple-circle {
+        margin-bottom: 0;
+    }
+    /* wedding event */
+    .wedding-event {
+        padding: 126px 0 100px; 
+    }
+    .wedding-event .single-event {
+        border: none;
+        padding: 22px 30px 7px;
+        box-shadow: 0 0 22px -9px;
+        text-align: left;
+        margin-bottom: 30px;
+    }
+    .wedding-event .single-event h3 {
+        font-size: 30px;
+        margin-bottom: 13px;
+    }
+    .wedding-event .single-event span.time {
+        font-size: 20px;
+        margin-bottom: 26px;
+    }
+    .wedding-event .single-event span.time:after {
+        bottom: -12px;
+    }
+    /* joining party */
+    .joining-party {
+        padding: 122px 0 130px;
+    }
+    .joining-party .section-title {
+        margin-bottom: 53px;
+    }
+    .joining-party .part-img {
+        left: 0;
+        transform: rotate(0deg);
+        margin-bottom: 30px;
+    }
+    .joining-party .part-form {
+        right: 0;
+        transform: rotate(0deg);
+        padding: 23px 30px 30px;
+    }
+    .joining-party .part-form .join-form h4 {
+        margin: 3px 0 18px 0;
+        line-height: 100%;
+        text-align: center;
+    }
+    /* love story */
+    .love-story {
+        padding: 122px 0 130px;
+    }
+    .love-story .section-title {
+        margin-bottom: 53px;
+    }
+    .love-story .single-story .part-text, .love-story .single-story.single-story-2-4 .part-text {
+        left: 0;
+        transform: rotate(0deg);
+        padding: 26px 30px 23px;
+        text-align: left;
+    }
+    .love-story .single-story .part-text h3 {
+        font-size: 30px;
+        margin-bottom: 8px;
+    }
+    .love-story .single-story .part-text span.date {
+        font-size: 20px;
+        margin-bottom: 25px;
+    }
+    .love-story .single-story .part-text p {
+        margin: 0;
+    }
+    .love-story .single-story .part-img, .love-story .single-story.single-story-2-4 .part-img {
+        right: 0;
+        transform: rotate(0deg);
+        height: auto;
+    }
+    .love-story .single-story:nth-child(2) .part-img, .love-story .single-story:nth-child(4) .part-img {
+        right: 0;
+        transform: rotate(0deg);
+    }
+    .love-story .single-story:nth-child(2) .part-text, .love-story .single-story:nth-child(4) .part-text {
+        left: 0;
+        transform: rotate(0deg);
+    }
+    .love-story .single-story {
+        margin-bottom: 30px;
+    }
+    /* gallery */
+    .gallery {
+        padding: 122px 0 130px;
+    }
+    /* testimonial */
+    .testimonial {
+        padding: 122px 0 170px;
+    }
+    .testimonial .testimonial-slider .owl-stage-outer .single-testimonial h3 {
+        margin-bottom: 33px;
+    }
+    .testimonial .testimonial-slider .owl-stage-outer .single-testimonial p {
+        margin-bottom: 17px;
+    }
+    .testimonial .testimonial-slider .owl-stage-outer .single-testimonial {
+        padding: 25px 30px 30px;
+    }
+    .testimonial .testimonial-slider .owl-stage-outer .single-testimonial .part-icon {
+        position: absolute;
+        margin-bottom: 0;
+        bottom: -40px;
+    }
+    /* groomsmen */
+    .groomsmen, .bridesmaid {
+        padding: 122px 0 100px
+    }
+    .groomsmen .single-person, .bridesmaid .single-person {
+        margin-bottom: 30px;
+    }
+    /* blog */
+    .blog {
+        padding: 122px 0 140px;
+    }
+    .blog .single-blog .part-text h3 {
+        font-size: 30px;
+    }
+    /* footer */
+    .footer {
+        padding: 90px 0px 47px; 
+    }
+    .footer .back-to-top {
+        margin-left: -40px;
+        top: -40px;
+    }
+    .footer .back-to-top button {
+        width: 80px;
+        height: 80px;
+        font-size: 25px;
+    }
+}
+
+
+@media only screen and (min-width: 480px) and (max-width: 575px) {
+        /* header */
+    .header .main-menu {
+        float: none;
+    }
+    .header .main-menu .navbar .nav-item .nav-link {
+        padding: 15px;
+        margin: 0;
+        background: rgba(223, 2, 37, 0.07);
+        margin-bottom: 1px;
+    }
+    .header .main-menu .navbar .nav-item:last-child .nav-link {
+        margin-bottom: 15px;
+    }
+    .header .main-menu .navbar .nav-item .nav-link:after {
+        display: none;
+    }
+    .header .navbar-toggler {
+        border: 1px solid #df0225;
+        float: right;
+        margin: 15px 0 14px;
+        color: #df0225;
+        height: 40px;
+        width: 40px;
+        padding: 0;
+    }
+    .header .navbar-toggler:focus {
+        outline: none;
+    }
+    /* section title */
+    .section-title h2 {
+        font-size: 40px;
+    }
+    .section-title h2.remove-space {
+        margin-bottom: 15px;
+    }
+    /* banner */
+    .banner .banner-content, .banner-1 .banner-content, .banner-2 .banner-content, .banner-3 .banner-content {
+        padding: 220px 0;
+    }
+    .banner .banner-content h1, .banner-1 .banner-content h1, .banner-2 .banner-content h1, .banner-3 .banner-content h1 {
+        font-size: 50px;
+        margin-bottom: 28px;
+        margin-top: -10px;
+    }
+    .banner .banner-content .married-time h4, .banner-1 .banner-content .married-time h4, .banner-2 .banner-content .married-time h4, .banner-3 .banner-content .married-time h4 {
+        font-size: 24px;
+    }
+    .banner .banner-content .married-time p, .banner-1 .banner-content .married-time p, .banner-2 .banner-content .married-time p, .banner-3 .banner-content .married-time p {
+        font-size: 12px;
+    }
+    .banner .banner-content .married-time .party-owner, .banner-1 .banner-content .married-time .party-owner, .banner-2 .banner-content .married-time .party-owner, .banner-3 .banner-content .married-time .party-owner {
+        font-size: 14px;
+    }
+    /* countdown */
+    .countdown {
+        padding: 121px 0 124px;
+    }
+    .countdown .part-text h2 {
+        font-size: 40px;
+        margin-bottom: 24px;
+    }
+    .countdown .part-text p {
+        margin-bottom: 20px;
+    }
+    .countdown .part-countdown .timer .single-count {
+        margin-right: 18px;
+    }
+    .countdown .part-countdown .timer .single-count .day, .countdown .part-countdown .timer .single-count .hour, .countdown .part-countdown .timer .single-count .minute, .countdown .part-countdown .timer .single-count .second {
+        font-size: 30px;
+        margin-bottom: -12px;
+    }
+    .countdown .part-countdown .timer .single-count .title {
+        font-size: 14px;
+    }
+
+    /* happy couple */
+    .happy-couple {
+        padding: 122px 0 130px;
+    }
+    .happy-couple .section-title {
+        margin-bottom: 93px;
+    }
+    .happy-couple .single-happy-couple .couple-circle {
+        border-radius: 0;
+        width: 100%;
+        height: auto;
+        padding: 70px 30px 30px;
+        text-align: center;
+        margin-bottom: 70px;
+    }
+    .happy-couple .single-happy-couple .part-img {
+        position: absolute;
+        margin-top: 0;
+        height: auto;
+        top: -40px;
+        width: 90px;
+        left: 50%;
+        margin-left: -45px;
+    }
+    .happy-couple .single-happy-couple .couple-circle h3 {
+        font-size: 30px;
+    }
+    .happy-couple .col-xl-5:last-child .single-happy-couple .couple-circle {
+        margin-bottom: 0;
+    }
+    /* wedding event */
+    .wedding-event {
+        padding: 126px 0 100px; 
+    }
+    .wedding-event .single-event {
+        border: none;
+        padding: 22px 30px 7px;
+        box-shadow: 0 0 22px -9px;
+        text-align: left;
+        margin-bottom: 30px;
+    }
+    .wedding-event .single-event h3 {
+        font-size: 30px;
+        margin-bottom: 13px;
+    }
+    .wedding-event .single-event span.time {
+        font-size: 20px;
+        margin-bottom: 26px;
+    }
+    .wedding-event .single-event span.time:after {
+        bottom: -12px;
+    }
+    /* joining party */
+    .joining-party {
+        padding: 122px 0 130px;
+    }
+    .joining-party .section-title {
+        margin-bottom: 53px;
+    }
+    .joining-party .part-img {
+        left: 0;
+        transform: rotate(0deg);
+        margin-bottom: 30px;
+    }
+    .joining-party .part-form {
+        right: 0;
+        transform: rotate(0deg);
+        padding: 23px 30px 30px;
+    }
+    .joining-party .part-form .join-form h4 {
+        margin: 3px 0 18px 0;
+        line-height: 100%;
+        text-align: center;
+    }
+    /* love story */
+    .love-story {
+        padding: 122px 0 130px;
+    }
+    .love-story .section-title {
+        margin-bottom: 53px;
+    }
+    .love-story .single-story .part-text, .love-story .single-story.single-story-2-4 .part-text {
+        left: 0;
+        transform: rotate(0deg);
+        padding: 26px 30px 23px;
+        text-align: left;
+    }
+    .love-story .single-story .part-text h3 {
+        font-size: 30px;
+        margin-bottom: 8px;
+    }
+    .love-story .single-story .part-text span.date {
+        font-size: 20px;
+        margin-bottom: 25px;
+    }
+    .love-story .single-story .part-text p {
+        margin: 0;
+    }
+    .love-story .single-story .part-img, .love-story .single-story.single-story-2-4 .part-img {
+        right: 0;
+        transform: rotate(0deg);
+        height: auto;
+    }
+    .love-story .single-story:nth-child(2) .part-img, .love-story .single-story:nth-child(4) .part-img {
+        right: 0;
+        transform: rotate(0deg);
+    }
+    .love-story .single-story:nth-child(2) .part-text, .love-story .single-story:nth-child(4) .part-text {
+        left: 0;
+        transform: rotate(0deg);
+    }
+    .love-story .single-story {
+        margin-bottom: 30px;
+    }
+    /* gallery */
+    .gallery {
+        padding: 122px 0 130px;
+    }
+    /* testimonial */
+    .testimonial {
+        padding: 122px 0 170px;
+    }
+    .testimonial .testimonial-slider .owl-stage-outer .single-testimonial h3 {
+        margin-bottom: 33px;
+    }
+    .testimonial .testimonial-slider .owl-stage-outer .single-testimonial p {
+        margin-bottom: 17px;
+    }
+    .testimonial .testimonial-slider .owl-stage-outer .single-testimonial {
+        padding: 25px 30px 30px;
+    }
+    .testimonial .testimonial-slider .owl-stage-outer .single-testimonial .part-icon {
+        position: absolute;
+        margin-bottom: 0;
+        bottom: -40px;
+    }
+    /* groomsmen */
+    .groomsmen, .bridesmaid {
+        padding: 122px 0 100px
+    }
+    .groomsmen .single-person, .bridesmaid .single-person {
+        margin-bottom: 30px;
+    }
+    /* blog */
+    .blog {
+        padding: 122px 0 140px;
+    }
+    .blog .single-blog .part-text h3 {
+        font-size: 30px;
+    }
+    /* footer */
+    .footer {
+        padding: 90px 0px 47px; 
+    }
+    .footer .back-to-top {
+        margin-left: -40px;
+        top: -40px;
+    }
+    .footer .back-to-top button {
+        width: 80px;
+        height: 80px;
+        font-size: 25px;
+    }
+}
+
+
+@media only screen and (min-width: 320px) and (max-width: 479px) {
+    /* header */
+    .header .main-menu {
+        float: none;
+    }
+    .header .main-menu .navbar .nav-item .nav-link {
+        padding: 15px;
+        margin: 0;
+        background: rgba(223, 2, 37, 0.07);
+        margin-bottom: 1px;
+    }
+    .header .main-menu .navbar .nav-item:last-child .nav-link {
+        margin-bottom: 15px;
+    }
+    .header .main-menu .navbar .nav-item .nav-link:after {
+        display: none;
+    }
+    .header .navbar-toggler {
+        border: 1px solid #df0225;
+        float: right;
+        margin: 15px 0 14px;
+        color: #df0225;
+        height: 40px;
+        width: 40px;
+        padding: 0;
+    }
+    .header .navbar-toggler:focus {
+        outline: none;
+    }
+    /* section title */
+    .section-title h2 {
+        font-size: 40px;
+    }
+    .section-title h2.remove-space {
+        margin-bottom: 15px;
+    }
+    /* banner */
+    .banner .banner-content, .banner-1 .banner-content, .banner-2 .banner-content, .banner-3 .banner-content {
+        padding: 220px 0;
+    }
+    .banner .banner-content h1, .banner-1 .banner-content h1, .banner-2 .banner-content h1, .banner-3 .banner-content h1 {
+        font-size: 50px;
+        margin-bottom: 28px;
+        margin-top: -10px;
+    }
+    .banner .banner-content .married-time h4, .banner-1 .banner-content .married-time h4, .banner-2 .banner-content .married-time h4, .banner-3 .banner-content .married-time h4 {
+        font-size: 24px;
+    }
+    .banner .banner-content .married-time p, .banner-1 .banner-content .married-time p, .banner-2 .banner-content .married-time p, .banner-3 .banner-content .married-time p {
+        font-size: 12px;
+    }
+    .banner .banner-content .married-time .party-owner, .banner-1 .banner-content .married-time .party-owner, .banner-2 .banner-content .married-time .party-owner, .banner-3 .banner-content .married-time .party-owner {
+        font-size: 14px;
+    }
+    /* countdown */
+    .countdown {
+        padding: 121px 0 124px;
+    }
+    .countdown .part-text h2 {
+        font-size: 40px;
+        margin-bottom: 24px;
+    }
+    .countdown .part-text p {
+        margin-bottom: 20px;
+    }
+    .countdown .part-countdown .timer .single-count {
+        margin-right: 18px;
+    }
+    .countdown .part-countdown .timer .single-count .day, .countdown .part-countdown .timer .single-count .hour, .countdown .part-countdown .timer .single-count .minute, .countdown .part-countdown .timer .single-count .second {
+        font-size: 30px;
+        margin-bottom: -12px;
+    }
+    .countdown .part-countdown .timer .single-count .title {
+        font-size: 14px;
+    }
+
+    /* happy couple */
+    .happy-couple {
+        padding: 122px 0 130px;
+    }
+    .happy-couple .section-title {
+        margin-bottom: 93px;
+    }
+    .happy-couple .single-happy-couple .couple-circle {
+        border-radius: 0;
+        width: 100%;
+        height: auto;
+        padding: 70px 30px 30px;
+        text-align: center;
+        margin-bottom: 70px;
+    }
+    .happy-couple .single-happy-couple .part-img {
+        position: absolute;
+        margin-top: 0;
+        height: auto;
+        top: -40px;
+        width: 90px;
+        left: 50%;
+        margin-left: -45px;
+    }
+    .happy-couple .single-happy-couple .couple-circle h3 {
+        font-size: 30px;
+    }
+    .happy-couple .col-xl-5:last-child .single-happy-couple .couple-circle {
+        margin-bottom: 0;
+    }
+    /* wedding event */
+    .wedding-event {
+        padding: 126px 0 100px; 
+    }
+    .wedding-event .single-event {
+        border: none;
+        padding: 22px 30px 7px;
+        box-shadow: 0 0 22px -9px;
+        text-align: left;
+        margin-bottom: 30px;
+    }
+    .wedding-event .single-event h3 {
+        font-size: 30px;
+        margin-bottom: 13px;
+    }
+    .wedding-event .single-event span.time {
+        font-size: 20px;
+        margin-bottom: 26px;
+    }
+    .wedding-event .single-event span.time:after {
+        bottom: -12px;
+    }
+    /* joining party */
+    .joining-party {
+        padding: 122px 0 130px;
+    }
+    .joining-party .section-title {
+        margin-bottom: 53px;
+    }
+    .joining-party .part-img {
+        left: 0;
+        transform: rotate(0deg);
+        margin-bottom: 30px;
+    }
+    .joining-party .part-form {
+        right: 0;
+        transform: rotate(0deg);
+        padding: 23px 30px 30px;
+    }
+    .joining-party .part-form .join-form h4 {
+        margin: 3px 0 18px 0;
+        line-height: 100%;
+        text-align: center;
+    }
+    /* love story */
+    .love-story {
+        padding: 122px 0 130px;
+    }
+    .love-story .section-title {
+        margin-bottom: 53px;
+    }
+    .love-story .single-story .part-text, .love-story .single-story.single-story-2-4 .part-text {
+        left: 0;
+        transform: rotate(0deg);
+        padding: 26px 30px 23px;
+        text-align: left;
+    }
+    .love-story .single-story .part-text h3 {
+        font-size: 30px;
+        margin-bottom: 8px;
+    }
+    .love-story .single-story .part-text span.date {
+        font-size: 20px;
+        margin-bottom: 25px;
+    }
+    .love-story .single-story .part-text p {
+        margin: 0;
+    }
+    .love-story .single-story .part-img, .love-story .single-story.single-story-2-4 .part-img {
+        right: 0;
+        transform: rotate(0deg);
+        height: auto;
+    }
+    .love-story .single-story:nth-child(2) .part-img, .love-story .single-story:nth-child(4) .part-img {
+        right: 0;
+        transform: rotate(0deg);
+    }
+    .love-story .single-story:nth-child(2) .part-text, .love-story .single-story:nth-child(4) .part-text {
+        left: 0;
+        transform: rotate(0deg);
+    }
+    .love-story .single-story {
+        margin-bottom: 30px;
+    }
+    /* gallery */
+    .gallery {
+        padding: 122px 0 130px;
+    }
+    /* testimonial */
+    .testimonial {
+        padding: 122px 0 170px;
+    }
+    .testimonial .testimonial-slider .owl-stage-outer .single-testimonial h3 {
+        margin-bottom: 33px;
+    }
+    .testimonial .testimonial-slider .owl-stage-outer .single-testimonial p {
+        margin-bottom: 17px;
+    }
+    .testimonial .testimonial-slider .owl-stage-outer .single-testimonial {
+        padding: 25px 30px 30px;
+    }
+    .testimonial .testimonial-slider .owl-stage-outer .single-testimonial .part-icon {
+        position: absolute;
+        margin-bottom: 0;
+        bottom: -40px;
+    }
+    /* groomsmen */
+    .groomsmen, .bridesmaid {
+        padding: 122px 0 100px
+    }
+    .groomsmen .single-person, .bridesmaid .single-person {
+        margin-bottom: 30px;
+    }
+    /* blog */
+    .blog {
+        padding: 122px 0 140px;
+    }
+    .blog .single-blog .part-text h3 {
+        font-size: 30px;
+    }
+    /* footer */
+    .footer {
+        padding: 90px 0px 47px; 
+    }
+    .footer .back-to-top {
+        margin-left: -40px;
+        top: -40px;
+    }
+    .footer .back-to-top button {
+        width: 80px;
+        height: 80px;
+        font-size: 25px;
+    }
+}
